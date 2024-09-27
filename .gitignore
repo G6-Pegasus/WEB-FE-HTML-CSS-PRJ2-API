@@ -128,3 +128,9 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# script
+*.png
+chromedriver
+data.py
+run.sh

@@ -1,0 +1,898 @@
+[
+    {
+        "category": "Tecnología",
+        "subCategory": "",
+        "filters": [
+            {
+                "name": "Marca",
+                "items": [
+                    { "name": "Apple", "quantity": 5 },
+                    { "name": "Dell", "quantity": 3 },
+                    { "name": "HP", "quantity": 2 }
+                ]
+            },
+            {
+                "name": "Tipo de Producto",
+                "items": [
+                    { "name": "Laptops", "quantity": 5 },
+                    { "name": "Tablets", "quantity": 3 },
+                    { "name": "Consolas", "quantity": 2 }
+                ]
+            },
+            {
+                "name": "Sistema Operativo",
+                "items": [
+                    { "name": "Windows", "quantity": 6 },
+                    { "name": "macOS", "quantity": 4 },
+                    { "name": "Linux", "quantity": 1 }
+                ]
+            },
+            {
+                "name": "Memoria RAM",
+                "items": [
+                    { "name": "8 GB", "quantity": 3 },
+                    { "name": "16 GB", "quantity": 4 },
+                    { "name": "32 GB", "quantity": 1 }
+                ]
+            }
+        ]        
+    },
+    {
+        "category": "Tecnología",
+        "subCategory": "Computadores",
+        "filters": [
+            {
+                "name": "Marca",
+                "items": [
+                    { "name": "HP", "quantity": 3 },
+                    { "name": "Dell", "quantity": 2 },
+                    { "name": "Lenovo", "quantity": 1 }
+                ]
+            },
+            {
+                "name": "Procesador",
+                "items": [
+                    { "name": "Intel Core i5", "quantity": 2 },
+                    { "name": "Intel Core i7", "quantity": 3 },
+                    { "name": "AMD Ryzen 5", "quantity": 1 }
+                ]
+            },
+            {
+                "name": "RAM",
+                "items": [
+                    { "name": "8 GB", "quantity": 2 },
+                    { "name": "16 GB", "quantity": 2 },
+                    { "name": "32 GB", "quantity": 1 }
+                ]
+            },
+            {
+                "name": "Disco duro",
+                "items": [
+                    { "name": "SSD 256 GB", "quantity": 2 },
+                    { "name": "SSD 512 GB", "quantity": 3 },
+                    { "name": "HDD 1 TB", "quantity": 1 }
+                ]
+            },
+            {
+                "name": "Precio",
+                "items": [
+                    { "name": "Menos de $1000", "quantity": 2 },
+                    { "name": "$1000 - $1500", "quantity": 3 },
+                    { "name": "Más de $1500", "quantity": 1 }
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Tecnología",
+        "subCategory": "Televisores",
+        "filters": [
+            {
+                "name": "Marca",
+                "items": [
+                    { "name": "Samsung", "quantity": 3 },
+                    { "name": "LG", "quantity": 2 },
+                    { "name": "Sony", "quantity": 1 }
+                ]
+            },
+            {
+                "name": "Tamaño de Pantalla",
+                "items": [
+                    { "name": "32 pulgadas", "quantity": 1 },
+                    { "name": "42 pulgadas", "quantity": 2 },
+                    { "name": "50 pulgadas o más", "quantity": 3 }
+                ]
+            },
+            {
+                "name": "Resolución",
+                "items": [
+                    { "name": "4K", "quantity": 2 },
+                    { "name": "Full HD", "quantity": 2 },
+                    { "name": "HD", "quantity": 2 }
+                ]
+            },
+            {
+                "name": "Tipo de Pantalla",
+                "items": [
+                    { "name": "LED", "quantity": 2 },
+                    { "name": "OLED", "quantity": 2 },
+                    { "name": "QLED", "quantity": 2 }
+                ]
+            },
+            {
+                "name": "Precio",
+                "items": [
+                    { "name": "Menos de $500", "quantity": 2 },
+                    { "name": "$500 - $1000", "quantity": 3 },
+                    { "name": "Más de $1000", "quantity": 1 }
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Tecnología",
+        "subCategory": "Audio",
+        "filters": [
+            {
+                "name": "Marca",
+                "items": [
+                    { "name": "Sony", "quantity": 3 },
+                    { "name": "Bose", "quantity": 2 },
+                    { "name": "JBL", "quantity": 1 }
+                ]
+            },
+            {
+                "name": "Tipo de Producto",
+                "items": [
+                    { "name": "Parlantes", "quantity": 2 },
+                    { "name": "Auriculares", "quantity": 3 },
+                    { "name": "Barras de sonido", "quantity": 1 }
+                ]
+            },
+            {
+                "name": "Conectividad",
+                "items": [
+                    { "name": "Bluetooth", "quantity": 3 },
+                    { "name": "Cable", "quantity": 2 },
+                    { "name": "Wi-Fi", "quantity": 1 }
+                ]
+            },
+            {
+                "name": "Potencia",
+                "items": [
+                    { "name": "10W", "quantity": 2 },
+                    { "name": "50W", "quantity": 2 },
+                    { "name": "100W o más", "quantity": 1 }
+                ]
+            },
+            {
+                "name": "Precio",
+                "items": [
+                    { "name": "Menos de $100", "quantity": 2 },
+                    { "name": "$100 - $300", "quantity": 3 },
+                    { "name": "Más de $300", "quantity": 1 }
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Tecnología",
+        "subCategory": "Vídeo",
+        "filters": [
+            {
+                "name": "Marca",
+                "items": [
+                    { "name": "Canon", "quantity": 2 },
+                    { "name": "Sony", "quantity": 2 },
+                    { "name": "GoPro", "quantity": 1 }
+                ]
+            },
+            {
+                "name": "Resolución",
+                "items": [
+                    { "name": "Full HD", "quantity": 2 },
+                    { "name": "4K", "quantity": 2 },
+                    { "name": "8K", "quantity": 1 }
+                ]
+            },
+            {
+                "name": "Conectividad",
+                "items": [
+                    { "name": "Wi-Fi", "quantity": 2 },
+                    { "name": "Bluetooth", "quantity": 1 },
+                    { "name": "Cable", "quantity": 2 }
+                ]
+            },
+            {
+                "name": "Almacenamiento Interno",
+                "items": [
+                    { "name": "16 GB", "quantity": 2 },
+                    { "name": "32 GB", "quantity": 2 },
+                    { "name": "64 GB o más", "quantity": 1 }
+                ]
+            },
+            {
+                "name": "Precio",
+                "items": [
+                    { "name": "Menos de $500", "quantity": 2 },
+                    { "name": "$500 - $1000", "quantity": 3 },
+                    { "name": "Más de $1000", "quantity": 1 }
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Tecnología",
+        "subCategory": "Impresión",
+        "filters": [
+            {
+                "name": "Marca",
+                "items": [
+                    { "name": "HP", "quantity": 3 },
+                    { "name": "Epson", "quantity": 2 },
+                    { "name": "Canon", "quantity": 1 }
+                ]
+            },
+            {
+                "name": "Tipo de Impresora",
+                "items": [
+                    { "name": "Inyección de tinta", "quantity": 2 },
+                    { "name": "Láser", "quantity": 3 },
+                    { "name": "Multifuncional", "quantity": 1 }
+                ]
+            },
+            {
+                "name": "Conectividad",
+                "items": [
+                    { "name": "Wi-Fi", "quantity": 2 },
+                    { "name": "USB", "quantity": 2 },
+                    { "name": "Ethernet", "quantity": 1 }
+                ]
+            },
+            {
+                "name": "Velocidad de Impresión",
+                "items": [
+                    { "name": "Hasta 20 ppm", "quantity": 2 },
+                    { "name": "Hasta 30 ppm", "quantity": 2 },
+                    { "name": "Más de 30 ppm", "quantity": 1 }
+                ]
+            },
+            {
+                "name": "Precio",
+                "items": [
+                    { "name": "Menos de $150", "quantity": 2 },
+                    { "name": "$150 - $300", "quantity": 3 },
+                    { "name": "Más de $300", "quantity": 1 }
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Tecnología",
+        "subCategory": "Cámaras",
+        "filters": [
+            {
+                "name": "Marca",
+                "items": [
+                    { "name": "Canon", "quantity": 3 },
+                    { "name": "Nikon", "quantity": 2 },
+                    { "name": "Sony", "quantity": 1 }
+                ]
+            },
+            {
+                "name": "Tipo de Cámara",
+                "items": [
+                    { "name": "Réflex", "quantity": 2 },
+                    { "name": "Mirrorless", "quantity": 2 },
+                    { "name": "Compacta", "quantity": 1 }
+                ]
+            },
+            {
+                "name": "Resolución",
+                "items": [
+                    { "name": "16 MP", "quantity": 1 },
+                    { "name": "24 MP", "quantity": 3 },
+                    { "name": "32 MP o más", "quantity": 2 }
+                ]
+            },
+            {
+                "name": "Conectividad",
+                "items": [
+                    { "name": "Wi-Fi", "quantity": 3 },
+                    { "name": "Bluetooth", "quantity": 2 },
+                    { "name": "Cable", "quantity": 1 }
+                ]
+            },
+            {
+                "name": "Precio",
+                "items": [
+                    { "name": "Menos de $500", "quantity": 2 },
+                    { "name": "$500 - $1000", "quantity": 3 },
+                    { "name": "Más de $1000", "quantity": 1 }
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Electrodomésticos",
+        "subCategory": "",
+        "filters": [
+            {
+                "name": "Marca",
+                "items": [
+                    { "name": "LG", "quantity": 3 },
+                    { "name": "Samsung", "quantity": 4 },
+                    { "name": "Whirlpool", "quantity": 2 }
+                ]
+            },
+            {
+                "name": "Tipo de Producto",
+                "items": [
+                    { "name": "Refrigeradores", "quantity": 4 },
+                    { "name": "Lavadoras", "quantity": 3 },
+                    { "name": "Televisores", "quantity": 6 }
+                ]
+            },
+            {
+                "name": "Eficiencia Energética",
+                "items": [
+                    { "name": "A++", "quantity": 5 },
+                    { "name": "A+", "quantity": 2 },
+                    { "name": "A", "quantity": 3 }
+                ]
+            },
+            {
+                "name": "Capacidad",
+                "items": [
+                    { "name": "300 L", "quantity": 2 },
+                    { "name": "400 L", "quantity": 3 },
+                    { "name": "500 L", "quantity": 1 }
+                ]
+            }
+        ]        
+    },
+    {
+        "category": "Electrodomésticos",
+        "subCategory": "Climatización",
+        "filters": [
+            {
+                "name": "Marca",
+                "items": [
+                    { "name": "Challenger", "quantity": 2 },
+                    { "name": "Haceb", "quantity": 1 },
+                    { "name": "Mabe", "quantity": 1 },
+                    { "name": "Olimpo", "quantity": 1 },
+                    { "name": "Panasonic", "quantity": 2 },
+                    { "name": "Samsung", "quantity": 2 },
+                    { "name": "Whirpool", "quantity": 1 },
+                    { "name": "Wurden", "quantity": 1 }
+                ]
+            },
+            {
+                "name": "Color",
+                "items": [
+                    { "name": "Blanco", "quantity": 11 },
+                    { "name": "Negro", "quantity": 0 },
+                    { "name": "Gris", "quantity": 0 }
+                ]
+            },
+            {
+                "name": "Eficiencia energética",
+                "items": [
+                    { "name": "A", "quantity": 0 },
+                    { "name": "B", "quantity": 1 },
+                    { "name": "C", "quantity": 9 },
+                    { "name": "D", "quantity": 1 },
+                    { "name": "E", "quantity": 0 }
+                ]
+            },
+            {
+                "name": "Capacidad de enfriamiento",
+                "items": [
+                    { "name": "9.000 Btu", "quantity": 1 },
+                    { "name": "12.000 Btu", "quantity": 9 },
+                    { "name": "18.000 Btu", "quantity": 0 },
+                    { "name": "24.000 Btu", "quantity": 1 }
+                ]
+            },
+            {
+                "name": "Descuentos",
+                "items": [
+                    { "name": "5% y más", "quantity": 1 },
+                    { "name": "10% y más", "quantity": 4 },
+                    { "name": "20% y más", "quantity": 2 },
+                    { "name": "30% y más", "quantity": 2 },
+                    { "name": "40% y más", "quantity": 2 }
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Electrodomésticos",
+        "subCategory": "Refrigeración",
+        "filters": [
+            {
+                "name": "Marca",
+                "items": [
+                    { "name": "Samsung", "quantity": 2 },
+                    { "name": "LG", "quantity": 2 },
+                    { "name": "Whirlpool", "quantity": 1 }
+                ]
+            },
+            {
+                "name": "Capacidad",
+                "items": [
+                    { "name": "200-299 litros", "quantity": 1 },
+                    { "name": "300-399 litros", "quantity": 2 },
+                    { "name": "400 litros o más", "quantity": 2 }
+                ]
+            },
+            {
+                "name": "Tipo de Nevera",
+                "items": [
+                    { "name": "Congelador", "quantity": 1 },
+                    { "name": "Doble puerta", "quantity": 2 },
+                    { "name": "Puerta sencilla", "quantity": 2 }
+                ]
+            },
+            {
+                "name": "Color",
+                "items": [
+                    { "name": "Blanco", "quantity": 2 },
+                    { "name": "Negro", "quantity": 1 },
+                    { "name": "Gris", "quantity": 2 }
+                ]
+            },
+            {
+                "name": "Eficiencia Energética",
+                "items": [
+                    { "name": "A", "quantity": 2 },
+                    { "name": "B", "quantity": 2 },
+                    { "name": "C", "quantity": 1 }
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Electrodomésticos",
+        "subCategory": "Lavadoras-Secadoras",
+        "filters": [
+            {
+                "name": "Marca",
+                "items": [
+                    { "name": "Samsung", "quantity": 2 },
+                    { "name": "LG", "quantity": 3 },
+                    { "name": "Whirlpool", "quantity": 2 }
+                ]
+            },
+            {
+                "name": "Capacidad de carga",
+                "items": [
+                    { "name": "5-7 kg", "quantity": 1 },
+                    { "name": "7-9 kg", "quantity": 2 },
+                    { "name": "Más de 9 kg", "quantity": 2 }
+                ]
+            },
+            {
+                "name": "Tipo de Lavadora",
+                "items": [
+                    { "name": "Carga superior", "quantity": 2 },
+                    { "name": "Carga frontal", "quantity": 3 },
+                    { "name": "Automática", "quantity": 1 }
+                ]
+            },
+            {
+                "name": "Color",
+                "items": [
+                    { "name": "Blanco", "quantity": 2 },
+                    { "name": "Gris", "quantity": 2 },
+                    { "name": "Negro", "quantity": 1 }
+                ]
+            },
+            {
+                "name": "Eficiencia Energética",
+                "items": [
+                    { "name": "A", "quantity": 2 },
+                    { "name": "B", "quantity": 3 },
+                    { "name": "C", "quantity": 1 }
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Celulares",
+        "subCategory": "",
+        "filters": [
+            {
+                "name": "Marca",
+                "items": [
+                    { "name": "Apple", "quantity": 5 },
+                    { "name": "Samsung", "quantity": 4 },
+                    { "name": "Xiaomi", "quantity": 3 }
+                ]
+            },
+            {
+                "name": "Tipo de Producto",
+                "items": [
+                    { "name": "Smartphones", "quantity": 7 },
+                    { "name": "Accesorios", "quantity": 5 },
+                    { "name": "Tablets", "quantity": 2 }
+                ]
+            },
+            {
+                "name": "Sistema Operativo",
+                "items": [
+                    { "name": "iOS", "quantity": 5 },
+                    { "name": "Android", "quantity": 9 }
+                ]
+            },
+            {
+                "name": "Capacidad de Almacenamiento",
+                "items": [
+                    { "name": "64 GB", "quantity": 4 },
+                    { "name": "128 GB", "quantity": 6 },
+                    { "name": "256 GB", "quantity": 3 }
+                ]
+            }
+        ]        
+    },
+    {
+        "category": "Celulares",
+        "subCategory": "Celulares",
+        "filters": [
+            {
+                "name": "Marca",
+                "items": [
+                    { "name": "Apple", "quantity": 3 },
+                    { "name": "Samsung", "quantity": 2 },
+                    { "name": "Xiaomi", "quantity": 1 }
+                ]
+            },
+            {
+                "name": "Capacidad de Almacenamiento",
+                "items": [
+                    { "name": "64 GB", "quantity": 2 },
+                    { "name": "128 GB", "quantity": 2 },
+                    { "name": "256 GB o más", "quantity": 1 }
+                ]
+            },
+            {
+                "name": "Tamaño de Pantalla",
+                "items": [
+                    { "name": "Menos de 6 pulgadas", "quantity": 1 },
+                    { "name": "6 - 6.5 pulgadas", "quantity": 3 },
+                    { "name": "Más de 6.5 pulgadas", "quantity": 2 }
+                ]
+            },
+            {
+                "name": "Conectividad",
+                "items": [
+                    { "name": "4G", "quantity": 2 },
+                    { "name": "5G", "quantity": 3 },
+                    { "name": "Wi-Fi", "quantity": 1 }
+                ]
+            },
+            {
+                "name": "Sistema Operativo",
+                "items": [
+                    { "name": "iOS", "quantity": 3 },
+                    { "name": "Android", "quantity": 3 }
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Celulares",
+        "subCategory": "Tabletas",
+        "filters": [
+            {
+                "name": "Marca",
+                "items": [
+                    { "name": "Apple", "quantity": 3 },
+                    { "name": "Samsung", "quantity": 2 },
+                    { "name": "Huawei", "quantity": 1 }
+                ]
+            },
+            {
+                "name": "Tamaño de Pantalla",
+                "items": [
+                    { "name": "7-8 pulgadas", "quantity": 2 },
+                    { "name": "9-10 pulgadas", "quantity": 2 },
+                    { "name": "11 pulgadas o más", "quantity": 1 }
+                ]
+            },
+            {
+                "name": "Capacidad de Almacenamiento",
+                "items": [
+                    { "name": "64 GB", "quantity": 2 },
+                    { "name": "128 GB", "quantity": 2 },
+                    { "name": "256 GB o más", "quantity": 1 }
+                ]
+            },
+            {
+                "name": "Conectividad",
+                "items": [
+                    { "name": "Wi-Fi", "quantity": 3 },
+                    { "name": "4G", "quantity": 2 },
+                    { "name": "5G", "quantity": 1 }
+                ]
+            },
+            {
+                "name": "Precio",
+                "items": [
+                    { "name": "Menos de $400", "quantity": 2 },
+                    { "name": "$400 - $700", "quantity": 3 },
+                    { "name": "Más de $700", "quantity": 1 }
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Celulares",
+        "subCategory": "Smartwatchs",
+        "filters": [
+            {
+                "name": "Marca",
+                "items": [
+                    { "name": "Apple", "quantity": 3 },
+                    { "name": "Samsung", "quantity": 2 },
+                    { "name": "Xiaomi", "quantity": 1 }
+                ]
+            },
+            {
+                "name": "Tamaño de Pantalla",
+                "items": [
+                    { "name": "1.2 pulgadas", "quantity": 1 },
+                    { "name": "1.4 pulgadas", "quantity": 3 },
+                    { "name": "1.6 pulgadas", "quantity": 2 }
+                ]
+            },
+            {
+                "name": "Conectividad",
+                "items": [
+                    { "name": "Bluetooth", "quantity": 3 },
+                    { "name": "Wi-Fi", "quantity": 2 },
+                    { "name": "LTE", "quantity": 1 }
+                ]
+            },
+            {
+                "name": "Resistencia al Agua",
+                "items": [
+                    { "name": "Hasta 30m", "quantity": 2 },
+                    { "name": "Hasta 50m", "quantity": 3 },
+                    { "name": "Hasta 100m", "quantity": 1 }
+                ]
+            },
+            {
+                "name": "Precio",
+                "items": [
+                    { "name": "Menos de $200", "quantity": 2 },
+                    { "name": "$200 - $400", "quantity": 3 },
+                    { "name": "Más de $400", "quantity": 1 }
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Hogar",
+        "subCategory": "",
+        "filters": [
+            {
+                "name": "Marca",
+                "items": [
+                    { "name": "IKEA", "quantity": 5 },
+                    { "name": "HomeCenter", "quantity": 3 },
+                    { "name": "Easy", "quantity": 2 }
+                ]
+            },
+            {
+                "name": "Tipo de Producto",
+                "items": [
+                    { "name": "Sofás", "quantity": 3 },
+                    { "name": "Mesas", "quantity": 2 },
+                    { "name": "Alfombras", "quantity": 4 }
+                ]
+            },
+            {
+                "name": "Material",
+                "items": [
+                    { "name": "Madera", "quantity": 4 },
+                    { "name": "Metal", "quantity": 2 },
+                    { "name": "Tela", "quantity": 3 }
+                ]
+            },
+            {
+                "name": "Color",
+                "items": [
+                    { "name": "Blanco", "quantity": 3 },
+                    { "name": "Gris", "quantity": 4 },
+                    { "name": "Negro", "quantity": 2 }
+                ]
+            }
+        ]        
+    },
+    {
+        "category": "Hogar",
+        "subCategory": "Salas",
+        "filters": [
+            {
+                "name": "Marca",
+                "items": [
+                    { "name": "Modular", "quantity": 2 },
+                    { "name": "Challenger", "quantity": 2 },
+                    { "name": "Decorceramic", "quantity": 1 }
+                ]
+            },
+            {
+                "name": "Color",
+                "items": [
+                    { "name": "Gris", "quantity": 2 },
+                    { "name": "Beige", "quantity": 2 },
+                    { "name": "Negro", "quantity": 1 }
+                ]
+            },
+            {
+                "name": "Material",
+                "items": [
+                    { "name": "Cuero", "quantity": 1 },
+                    { "name": "Tela", "quantity": 2 },
+                    { "name": "Sintético", "quantity": 2 }
+                ]
+            },
+            {
+                "name": "Tamaño",
+                "items": [
+                    { "name": "2 puestos", "quantity": 2 },
+                    { "name": "3 puestos", "quantity": 2 },
+                    { "name": "Esquinero", "quantity": 1 }
+                ]
+            },
+            {
+                "name": "Estilo",
+                "items": [
+                    { "name": "Moderno", "quantity": 2 },
+                    { "name": "Clásico", "quantity": 2 },
+                    { "name": "Vintage", "quantity": 1 }
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Hogar",
+        "subCategory": "Comedor",
+        "filters": [
+            {
+                "name": "Marca",
+                "items": [
+                    { "name": "Modular", "quantity": 3 },
+                    { "name": "DecoHome", "quantity": 2 },
+                    { "name": "Decorceramic", "quantity": 1 }
+                ]
+            },
+            {
+                "name": "Material",
+                "items": [
+                    { "name": "Madera", "quantity": 2 },
+                    { "name": "Vidrio", "quantity": 2 },
+                    { "name": "Metal", "quantity": 1 }
+                ]
+            },
+            {
+                "name": "Capacidad",
+                "items": [
+                    { "name": "4 puestos", "quantity": 2 },
+                    { "name": "6 puestos", "quantity": 2 },
+                    { "name": "8 puestos", "quantity": 1 }
+                ]
+            },
+            {
+                "name": "Color",
+                "items": [
+                    { "name": "Blanco", "quantity": 2 },
+                    { "name": "Negro", "quantity": 2 },
+                    { "name": "Marrón", "quantity": 1 }
+                ]
+            },
+            {
+                "name": "Estilo",
+                "items": [
+                    { "name": "Moderno", "quantity": 2 },
+                    { "name": "Clásico", "quantity": 2 },
+                    { "name": "Minimalista", "quantity": 1 }
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Hogar",
+        "subCategory": "Cocina",
+        "filters": [
+            {
+                "name": "Marca",
+                "items": [
+                    { "name": "Samsung", "quantity": 2 },
+                    { "name": "LG", "quantity": 2 },
+                    { "name": "Whirlpool", "quantity": 1 }
+                ]
+            },
+            {
+                "name": "Tipo de Producto",
+                "items": [
+                    { "name": "Nevera", "quantity": 2 },
+                    { "name": "Estufa", "quantity": 2 },
+                    { "name": "Microondas", "quantity": 1 }
+                ]
+            },
+            {
+                "name": "Capacidad",
+                "items": [
+                    { "name": "200 - 400 Litros", "quantity": 2 },
+                    { "name": "400 - 600 Litros", "quantity": 2 },
+                    { "name": "Más de 600 Litros", "quantity": 1 }
+                ]
+            },
+            {
+                "name": "Eficiencia Energética",
+                "items": [
+                    { "name": "A", "quantity": 2 },
+                    { "name": "A+", "quantity": 2 },
+                    { "name": "A++", "quantity": 1 }
+                ]
+            },
+            {
+                "name": "Color",
+                "items": [
+                    { "name": "Acero Inoxidable", "quantity": 2 },
+                    { "name": "Blanco", "quantity": 2 },
+                    { "name": "Negro", "quantity": 1 }
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Hogar",
+        "subCategory": "Baño",
+        "filters": [
+            {
+                "name": "Marca",
+                "items": [
+                    { "name": "Corona", "quantity": 2 },
+                    { "name": "DecoBath", "quantity": 2 },
+                    { "name": "Decorceramic", "quantity": 1 }
+                ]
+            },
+            {
+                "name": "Tipo de Producto",
+                "items": [
+                    { "name": "Lavamanos", "quantity": 2 },
+                    { "name": "Inodoro", "quantity": 2 },
+                    { "name": "Ducha", "quantity": 1 }
+                ]
+            },
+            {
+                "name": "Material",
+                "items": [
+                    { "name": "Cerámica", "quantity": 2 },
+                    { "name": "Porcelana", "quantity": 2 },
+                    { "name": "Vidrio", "quantity": 1 }
+                ]
+            },
+            {
+                "name": "Color",
+                "items": [
+                    { "name": "Blanco", "quantity": 2 },
+                    { "name": "Gris", "quantity": 2 },
+                    { "name": "Negro", "quantity": 1 }
+                ]
+            },
+            {
+                "name": "Estilo",
+                "items": [
+                    { "name": "Moderno", "quantity": 2 },
+                    { "name": "Clásico", "quantity": 2 },
+                    { "name": "Minimalista", "quantity": 1 }
+                ]
+            }
+        ]
+    }
+]
