@@ -14,7 +14,7 @@
             "Memoria que Incluye": "No Incluye Memoria",
             "Fuentes de Alimentacion de Energia": "Batería Recargable Interna",
             "Tipos de Puertos Entradas y Salidas": "Entrada Tarjeta Micro SD",
-            "Opciones de Conectividad": "Bluetooth <br>WiFi"
+            "Opciones de Conectividad": "Bluetooth WiFi"
         },
         "starts": 50,
         "reviews": 4,
@@ -56,8 +56,8 @@
             "Almacenamiento Fotos y Videos": "Memoria SD",
             "Memoria que Incluye": "No Incluye Memoria",
             "Fuentes de Alimentacion de Energia": "Batería Recargable Extraíble",
-            "Tipos de Puertos Entradas y Salidas": "Entrada de Micrófono <br>Entrada Tarjeta SD <br>Puerto Mini HDMI <br>Puerto USB Tipo C",
-            "Opciones de Conectividad": "Bluetooth <br>Conexión Con Cable <br>WiFi"
+            "Tipos de Puertos Entradas y Salidas": "Entrada de Micrófono Entrada Tarjeta SD Puerto Mini HDMI Puerto USB Tipo C",
+            "Opciones de Conectividad": "Bluetooth Conexión Con Cable WiFi"
         },
         "starts": 50,
         "reviews": 2,
@@ -79,7 +79,7 @@
             "Almacenamiento Fotos y Videos": "Sin Almacenamiento",
             "Memoria que Incluye": "No Incluye Memoria",
             "Fuentes de Alimentacion de Energia": "Batería Recargable Extraíble",
-            "Tipos de Puertos Entradas y Salidas": "Entrada de Micrófono <br>Entrada Tarjeta SD <br>Puerto USB Tipo C",
+            "Tipos de Puertos Entradas y Salidas": "Entrada de Micrófono Entrada Tarjeta SD Puerto USB Tipo C",
             "Opciones de Conectividad": "WiFi"
         },
         "starts": 50,
@@ -123,8 +123,8 @@
             "Almacenamiento Fotos y Videos": "Memoria SD",
             "Memoria que Incluye": "No Incluye Memoria",
             "Fuentes de Alimentacion de Energia": "Batería Recargable Extraíble",
-            "Tipos de Puertos Entradas y Salidas": "Entrada de Micrófono <br>Entrada Tarjeta SD <br>Puerto HDMI <br>Puerto Micro USB <br>Puerto USB Tipo C <br>Salida de Audífonos",
-            "Opciones de Conectividad": "Bluetooth <br>USB <br>WiFi"
+            "Tipos de Puertos Entradas y Salidas": "Entrada de Micrófono Entrada Tarjeta SD Puerto HDMI Puerto Micro USB Puerto USB Tipo C Salida de Audífonos",
+            "Opciones de Conectividad": "Bluetooth USB WiFi"
         },
         "starts": 0,
         "reviews": 0,
@@ -145,8 +145,8 @@
             "Almacenamiento Fotos y Videos": "Memoria SD",
             "Memoria que Incluye": "No Incluye Memoria",
             "Fuentes de Alimentacion de Energia": "Batería Recargable Extraíble",
-            "Tipos de Puertos Entradas y Salidas": "Entrada de Micrófono <br>Entrada Tarjeta SD <br>Puerto Micro HDMI <br>Puerto USB Tipo C",
-            "Opciones de Conectividad": "Bluetooth <br>Conexión Con Cable <br>WiFi"
+            "Tipos de Puertos Entradas y Salidas": "Entrada de Micrófono Entrada Tarjeta SD Puerto Micro HDMI Puerto USB Tipo C",
+            "Opciones de Conectividad": "Bluetooth Conexión Con Cable WiFi"
         },
         "starts": 0,
         "reviews": 0,
@@ -167,8 +167,8 @@
             "Almacenamiento Fotos y Videos": "Memoria SD",
             "Memoria que Incluye": "No Incluye Memoria",
             "Fuentes de Alimentacion de Energia": "Batería Recargable Extraíble",
-            "Tipos de Puertos Entradas y Salidas": "Entrada Tarjeta SD <br>Puerto Mini HDMI <br>Puerto USB",
-            "Opciones de Conectividad": "Conexión Con Cable <br>NFC <br>WiFi"
+            "Tipos de Puertos Entradas y Salidas": "Entrada Tarjeta SD Puerto Mini HDMI Puerto USB",
+            "Opciones de Conectividad": "Conexión Con Cable NFC WiFi"
         },
         "starts": 0,
         "reviews": 0,
@@ -189,8 +189,8 @@
             "Almacenamiento Fotos y Videos": "Memoria SD",
             "Memoria que Incluye": "No Incluye Memoria",
             "Fuentes de Alimentacion de Energia": "Batería Recargable Extraíble",
-            "Tipos de Puertos Entradas y Salidas": "Entrada de Micrófono <br>Entrada Tarjeta SD <br>Puerto Micro HDMI <br>Puerto USB Tipo C",
-            "Opciones de Conectividad": "Bluetooth <br>Conexión Con Cable <br>WiFi"
+            "Tipos de Puertos Entradas y Salidas": "Entrada de Micrófono Entrada Tarjeta SD Puerto Micro HDMI Puerto USB Tipo C",
+            "Opciones de Conectividad": "Bluetooth Conexión Con Cable WiFi"
         },
         "starts": 50,
         "reviews": 1,
@@ -212,7 +212,7 @@
             "Almacenamiento Fotos y Videos": "Sin Almacenamiento",
             "Memoria que Incluye": "No Incluye Memoria",
             "Fuentes de Alimentacion de Energia": "Batería Recargable Extraíble",
-            "Tipos de Puertos Entradas y Salidas": "Entrada de Micrófono <br>Entrada Tarjeta SD <br>Puerto Micro HDMI <br>Puerto Micro USB",
+            "Tipos de Puertos Entradas y Salidas": "Entrada de Micrófono Entrada Tarjeta SD Puerto Micro HDMI Puerto Micro USB",
             "Otras Tecnologias de Conectividad": "NFC"
         },
         "starts": 50,
@@ -234,7 +234,7 @@
             "Almacenamiento Fotos y Videos": "Memoria SD",
             "Memoria que Incluye": "No Incluye Memoria",
             "Fuentes de Alimentacion de Energia": "Batería Recargable Extraíble",
-            "Tipos de Puertos Entradas y Salidas": "Entrada Tarjeta SD <br>Puerto USB 2.0"
+            "Tipos de Puertos Entradas y Salidas": "Entrada Tarjeta SD Puerto USB 2.0"
         },
         "starts": 50,
         "reviews": 9,
@@ -256,7 +256,7 @@
             "Almacenamiento Fotos y Videos": "Sin Almacenamiento",
             "Memoria que Incluye": "No Incluye Memoria",
             "Fuentes de Alimentacion de Energia": "Batería Recargable Extraíble",
-            "Tipos de Puertos Entradas y Salidas": "Entrada de Micrófono <br>Entrada Tarjeta SD <br>Puerto Micro HDMI <br>Puerto Micro USB",
+            "Tipos de Puertos Entradas y Salidas": "Entrada de Micrófono Entrada Tarjeta SD Puerto Micro HDMI Puerto Micro USB",
             "Otras Tecnologias de Conectividad": "NFC"
         },
         "starts": 50,
@@ -278,8 +278,8 @@
             "Almacenamiento Fotos y Videos": "Memoria SD",
             "Memoria que Incluye": "No Incluye Memoria",
             "Fuentes de Alimentacion de Energia": "Batería Recargable Extraíble",
-            "Tipos de Puertos Entradas y Salidas": "Entrada de Micrófono <br>Entrada Tarjeta SD <br>Puerto Mini HDMI <br>Puerto USB 2.0",
-            "Opciones de Conectividad": "Bluetooth <br>WiFi"
+            "Tipos de Puertos Entradas y Salidas": "Entrada de Micrófono Entrada Tarjeta SD Puerto Mini HDMI Puerto USB 2.0",
+            "Opciones de Conectividad": "Bluetooth WiFi"
         },
         "starts": 50,
         "reviews": 3,
@@ -344,7 +344,7 @@
             "Almacenamiento Fotos y Videos": "Memoria SD",
             "Memoria que Incluye": "No Incluye Memoria",
             "Fuentes de Alimentacion de Energia": "Batería Recargable Extraíble",
-            "Tipos de Puertos Entradas y Salidas": "Puerto Mini HDMI <br>Puerto Mini USB"
+            "Tipos de Puertos Entradas y Salidas": "Puerto Mini HDMI Puerto Mini USB"
         },
         "starts": 50,
         "reviews": 4,
@@ -365,8 +365,8 @@
             "Almacenamiento Fotos y Videos": "Memoria SD",
             "Memoria que Incluye": "No Incluye Memoria",
             "Fuentes de Alimentacion de Energia": "Batería Recargable Extraíble",
-            "Tipos de Puertos Entradas y Salidas": "Entrada de Micrófono <br>Entrada Tarjeta SD <br>Puerto Micro HDMI <br>Puerto USB Tipo C",
-            "Opciones de Conectividad": "Bluetooth <br>Conexión Con Cable <br>WiFi"
+            "Tipos de Puertos Entradas y Salidas": "Entrada de Micrófono Entrada Tarjeta SD Puerto Micro HDMI Puerto USB Tipo C",
+            "Opciones de Conectividad": "Bluetooth Conexión Con Cable WiFi"
         },
         "starts": 0,
         "reviews": 0,
@@ -386,7 +386,7 @@
             "Almacenamiento Fotos y Videos": "Sin Almacenamiento",
             "Memoria que Incluye": "No Incluye Memoria",
             "Fuentes de Alimentacion de Energia": "Batería Recargable Extraíble",
-            "Tipos de Puertos Entradas y Salidas": "Entrada Tarjeta SD <br>Puerto Auxiliar de Audio"
+            "Tipos de Puertos Entradas y Salidas": "Entrada Tarjeta SD Puerto Auxiliar de Audio"
         },
         "starts": 50,
         "reviews": 3,
@@ -473,7 +473,7 @@
             "Almacenamiento Fotos y Videos": "Memoria SD",
             "Memoria que Incluye": "Memoria SD",
             "Fuentes de Alimentacion de Energia": "Batería Recargable Extraíble",
-            "Tipos de Puertos Entradas y Salidas": "Puerto Mini HDMI <br>Puerto Mini USB"
+            "Tipos de Puertos Entradas y Salidas": "Puerto Mini HDMI Puerto Mini USB"
         },
         "starts": 50,
         "reviews": 5,
@@ -495,7 +495,7 @@
             "Almacenamiento Fotos y Videos": "Sin Almacenamiento",
             "Memoria que Incluye": "No Incluye Memoria",
             "Fuentes de Alimentacion de Energia": "Batería Recargable Extraíble",
-            "Tipos de Puertos Entradas y Salidas": "Entrada de Micrófono <br>Entrada Tarjeta SD <br>Puerto Micro HDMI <br>Puerto Micro USB",
+            "Tipos de Puertos Entradas y Salidas": "Entrada de Micrófono Entrada Tarjeta SD Puerto Micro HDMI Puerto Micro USB",
             "Otras Tecnologias de Conectividad": "NFC"
         },
         "starts": 0,
