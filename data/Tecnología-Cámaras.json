@@ -67,8 +67,8 @@
     {
         "id": 101,
         "imageUrl": "https://www.alkosto.com/medias/027242920552-001-310Wx310H?context=bWFzdGVyfGltYWdlc3w0ODMyfGltYWdlL3dlYnB8YURVeUwyZ3lOQzh4TkRNek9UWXhNVGMxTkRVeU5pOHdNamN5TkRJNU1qQTFOVEpmTURBeFh6TXhNRmQ0TXpFd1NBfGZiOGYwYTI3Y2EyZGE4ZTdiOTZkNThhMjc2M2Y2YjBjYzdmZjA2OGUwYWY2MmJhN2FmOGQyZTUyOTFhZjIxYjU",
-        "name": "Cám",
-        "brand": "ra Sony Zv-1/Bc Uc2",
+        "name": "Cámara Sony",
+        "brand": "Zv-1/Bc Uc2",
         "category": "Tecnología",
         "subCategory": "Cámaras",
         "loadDate": "2021-12-03",
@@ -418,8 +418,8 @@
     {
         "id": 117,
         "imageUrl": "https://www.alkosto.com/medias/7700002204514-001-310Wx310H?context=bWFzdGVyfGltYWdlc3wxMTAyNHxpbWFnZS93ZWJwfGFEQXdMMmc0WkM4eE5ETXpNRGs1T0RBMk16RXpOQzgzTnpBd01EQXlNakEwTlRFMFh6QXdNVjh6TVRCWGVETXhNRWd8OWNjMGE3NWYyNmUyOTc2ODEzM2FhMWY4MDVlOWM3NmM5ZjM0Yzk0YjdkYWI1NDBhZmViOTJiNWJhY2Y5MmFhMQ",
-        "name": "Kit Cam",
-        "brand": "ra Fujifilm Instax Mini 40",
+        "name": "Kit Cámara Fujifilm",
+        "brand": "Instax Mini 40",
         "category": "Tecnología",
         "subCategory": "Cámaras",
         "loadDate": "2022-01-25",
